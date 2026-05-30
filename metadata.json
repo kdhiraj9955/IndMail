@@ -1,0 +1,6 @@
+{
+  "name": "BharatMail",
+  "description": "India's own secure, intelligent, and swadeshi mobile e-mail client with local offline database search and instant AI-assisted semantic composing.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
